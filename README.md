@@ -28,7 +28,7 @@ Plan and organize events.
 7. View all booking history done by users.
 
 
-## Functionalities under registering event by any user
+### Functionalities under registering event by any user
 
 1. Sign up and sign in functionalities to a user who wish to book for an event.
 2. Look into various events organized without signing up.
