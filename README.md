@@ -2,11 +2,11 @@
 
 Technologies and frameworks used
 
-FRONTEND:
+1. FRONTEND:
 HTML, CSS, BOOTSRAP, REACT JS
-BACKEND:
+2. BACKEND:
 NODE JS, EXPRESS
-DATABASE:
+3. DATABASE:
 MONGODB
 
 Web application for event management in colleges. This application supports :
