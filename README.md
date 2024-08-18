@@ -1,4 +1,15 @@
-# Web application for event management in colleges. This application supports :
+# College Event Management System
+
+Technologies and frameworks used
+
+FRONTEND:
+HTML, CSS, BOOTSRAP, REACT JS
+BACKEND:
+NODE JS, EXPRESS
+DATABASE:
+MONGODB
+
+Web application for event management in colleges. This application supports :
 Core members login to registered clubs.
 Users who can register for events and get all the details regarding events and
 clubs in the college.
@@ -34,11 +45,3 @@ Can do online payment for the booked events.
 Can view booking history and keep track of all events he/she attended.
 
 
-Technologies and frameworks used
-
-FRONTEND:
-HTML, CSS, BOOTSRAP, REACT JS
-BACKEND:
-NODE JS, EXPRESS
-DATABASE:
-MONGODB
